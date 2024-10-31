@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class HeavenlyBody : MonoBehaviour
 {
-    public float mass;
+    public float mass; // ¸Þ½º
     public Vector3 velocity;
     List<HeavenlyBody> bodies;
 
